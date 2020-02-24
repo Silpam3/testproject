@@ -1,0 +1,16 @@
+{
+    "inputMessageMetadata": {
+        "messagePayload": {
+            "connectorName": "#_custom_mule_metadata_type_#",
+            "typeId": "exel"
+        }
+    },
+    "outputMessageMetadata": {
+        "messagePayload": {
+            "connectorName": "#_custom_mule_metadata_type_#",
+            "typeId": "database"
+        }
+    },
+    "id": "9c8b4c73-4149-48cb-9a2d-7f4861243b19",
+    "version": "5.2.0.0"
+}
